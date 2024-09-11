@@ -1,0 +1,42 @@
+﻿  Health Calculator.cpp
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C++ Tasks\Health Calculator\Health Calculator.cpp(125,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C++ Tasks\Health Calculator\Health Calculator.cpp(139,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C++ Tasks\Health Calculator\Health Calculator.cpp(169,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C++ Tasks\Health Calculator\Health Calculator.cpp(173,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C++ Tasks\Health Calculator\Health Calculator.cpp(180,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C++ Tasks\Health Calculator\Health Calculator.cpp(181,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C++ Tasks\Health Calculator\Health Calculator.cpp(190,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C++ Tasks\Health Calculator\Health Calculator.cpp(194,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\utility(242,54): warning C4244: 'initializing': conversion from '_Ty' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty2=float
+          ]
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C++ Tasks\Health Calculator\Health Calculator.cpp(149,34): message : see reference to function template instantiation 'std::pair<const std::string,float>::pair<const char(&)[11],double,0>(_Other1,_Other2 &&) noexcept(false)' being compiled
+          with
+          [
+              _Other1=const char (&)[11],
+              _Other2=double
+          ]
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C++ Tasks\Health Calculator\Health Calculator.cpp(149,32): message : see the first reference to 'std::pair<const std::string,float>::pair' in 'BMI'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\utility(242,54): warning C4244: 'initializing': conversion from '_Ty' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              _Ty2=float
+          ]
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C++ Tasks\Health Calculator\Health Calculator.cpp(149,96): message : see reference to function template instantiation 'std::pair<const std::string,float>::pair<const char(&)[6],int,0>(_Other1,_Other2 &&) noexcept(false)' being compiled
+          with
+          [
+              _Other1=const char (&)[6],
+              _Other2=int
+          ]
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C++ Tasks\Health Calculator\Health Calculator.cpp(149,32): message : see the first reference to 'std::pair<const std::string,float>::pair' in 'BMI'
+  Health Calculator.vcxproj -> C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C++ Tasks\Health Calculator\x64\Debug\Health Calculator.exe
